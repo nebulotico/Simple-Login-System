@@ -7,8 +7,6 @@
 ##  
 
 
-### ☕ Usage  
-
 ### 🏆 Features List
 
 - Simple Usage
