@@ -1,0 +1,8 @@
+E:\Github\Simple-Login-System\Simple-Login-System\bin\Debug\Simple-Login-System.exe.config
+E:\Github\Simple-Login-System\Simple-Login-System\bin\Debug\Simple-Login-System.exe
+E:\Github\Simple-Login-System\Simple-Login-System\bin\Debug\Simple-Login-System.pdb
+E:\Github\Simple-Login-System\Simple-Login-System\obj\Debug\Simple-Login-System.csproj.AssemblyReference.cache
+E:\Github\Simple-Login-System\Simple-Login-System\obj\Debug\Simple-Login-System.csproj.SuggestedBindingRedirects.cache
+E:\Github\Simple-Login-System\Simple-Login-System\obj\Debug\Simple-Login-System.csproj.CoreCompileInputs.cache
+E:\Github\Simple-Login-System\Simple-Login-System\obj\Debug\Simple-Login-System.exe
+E:\Github\Simple-Login-System\Simple-Login-System\obj\Debug\Simple-Login-System.pdb
